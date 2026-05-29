@@ -13,7 +13,6 @@ PooPooSnake 是一款贪吃蛇变体游戏：赶在食物完全被吸收前，�
 - 加入厕所/便便机制
 
 ## Gameplay
-https://github.com/user-attachments/assets/dd079075-2a0a-4358-adf5-4565b2f0e3e7
 <a href="https://github.com/user-attachments/assets/dd079075-2a0a-4358-adf5-4565b2f0e3e7">
   <img src="gameplay01.png" width="500" alt="PooPooSnake gameplay video">
 </a>
