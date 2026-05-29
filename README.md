@@ -1,8 +1,8 @@
 # PooPooSnake
 
 PooPooSnake 是一款贪吃蛇变体游戏：赶在食物完全被吸收前，把便便拉出来，阻止蛇无休无止地生长吧！
-![Gameplay Screenshot](/gameplay01.png)
-![Gameplay Screenshot](/gameplay02.png)
+<img src="Screenshots/gameplay01.png" width="800">
+<img src="Screenshots/gameplay02.png" width="800">
 
 ## Features
 
