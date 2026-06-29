@@ -270,8 +270,8 @@ public class GameManager : MonoBehaviour
         if (CurrentState == GameState.GameOver)
             return;
 
-        // if (PlayerPrefs.GetInt(FirstNoteSeenKey, 0) == 1)
-        //     return;
+        if (PlayerPrefs.GetInt(FirstNoteSeenKey, 0) == 1)
+             return;
 
         PlayerPrefs.SetInt(FirstNoteSeenKey, 1);
         PlayerPrefs.Save();
